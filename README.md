@@ -1,4 +1,4 @@
-## Galexy Image App
+# Galexy Image App
 
 # Getting Started…
 * I built an image search website in just 2days with unplashApi,utilizing cutting-edege technologies and programming language.Despite facing some technical difficulties and unexpected roadblocks,I was able to overcome them through determination and hard work. The end result is a fully functional and user-freindly image search platform that can quickly and accurately find and display the desired images.
