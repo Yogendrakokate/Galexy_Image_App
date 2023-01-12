@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+## Galexy Image App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started…
+*I built an image search website in just 2days with unplashApi,utilizing cutting-edege technologies and programming language.Despite facing some technical difficulties and unexpected roadblocks,I was able to overcome them through determination and hard work. The end result is a fully functional and user-freindly image search platform that can quickly and accurately find and display the desired images.
 
-## Available Scripts
+# Some Glimpse and Screenshots of website:-
 
-In the project directory, you can run:
+# Home Page -
+*This is the main landing page of website. Here clicking on any option on the Navbar will redirect the user to the respective Page.
 
-### `npm start`
+![name-of-you-image](https://user-images.githubusercontent.com/101565730/212022933-0a634c0d-2101-4a1e-a91f-fa5c3ac0b71b.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Log In From -
 
-### `npm test`
+![name-of-you-image](https://user-images.githubusercontent.com/101565730/212023255-fdde4efc-a390-42d5-94d2-a7c93037a8bb.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+#Single Image Page -
+*In this paga user will be able to see Details of single Image which is protected in with private route only after login you can view this page.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![name-of-you-image](https://user-images.githubusercontent.com/101565730/212023783-a88af9ea-a23f-4115-9353-63da27d4fd66.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Image Slider -
+*in the single page you can also find image slider at the bottom where you can see some randome images in sliding format
 
-### `npm run eject`
+![name-of-you-image](https://user-images.githubusercontent.com/101565730/212026745-62aa7396-3847-4c20-8047-8663804bf1fb.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#Tech Stacks used -
+*React.js
+*Redux
+*JavaScript
+*HTML
+*CSS
