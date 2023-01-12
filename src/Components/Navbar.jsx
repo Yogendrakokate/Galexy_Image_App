@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom"
 import { useSelector } from "react-redux/es/hooks/useSelector";
 import "./image.Module.css"
+import img1 from "./Image/galexyimg.png"
 
 const Navbar = () => {
   const isAuth = useSelector((store) => store.Authreducer.isAuth)
@@ -11,7 +12,7 @@ const Navbar = () => {
       <div >
         <Link to="/">
         <img
-          src="https://cdn.pixabay.com/photo/2016/12/26/18/33/logo-1932539__340.png"
+          src={img1}
           width="100px"
           alt="logo"
           className="nvimg"
